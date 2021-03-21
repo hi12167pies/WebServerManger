@@ -1,0 +1,6 @@
+{
+    "title":"WebSeverManger",
+    "root": "./html",
+    "port": 80,
+    "defaultpagename":"index.html"
+}
