@@ -1,0 +1,15 @@
+{
+    "root": "./html",
+    "port": 80,
+    "errorpage": "./files/error.htmle",
+    "files": {
+        "/": {
+            "root": "index.html",
+            "type": "text/html"
+        },
+        "/info": {
+            "root": "info.html",
+            "type": "text/html"
+        }
+    }
+}
